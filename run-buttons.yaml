@@ -1,0 +1,9 @@
+# This is an example of the settings run-buttons file
+# Documentation: https://github.com/gentee/run-buttons
+
+runs:
+  - cmd: gnome-calculator
+    title: Calculator
+  - title: Character Map
+    cmd: gucharmap.desktop
+    key: charmap
