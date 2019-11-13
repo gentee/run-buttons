@@ -1,9 +1,22 @@
 # This is an example of the settings run-buttons file
 # Documentation: https://github.com/gentee/run-buttons
 
-runs:
+password: 1234
+logfile: run-buttons.log
+devices: [1213223, a3a454fa41a4fc0a]
+
+btns:
   - cmd: gnome-calculator
     title: Calculator
-  - title: Character Map
-    cmd: gucharmap.desktop
-    key: charmap
+  - cmd: gucharmap
+    title: Character Map
+  - cmd: errapp
+    title: Error app
+  - cmd: echo
+    title: Echo
+  - cmd: git
+    params: [push]
+    icon: file_upload
+    color: 0x339966
+    desc: Push Run buttons flutter
+    dir: /home/ak/flutter/run_buttons_phone

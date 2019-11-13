@@ -5,6 +5,7 @@
 *.so
 *.dylib
 run-buttons
+*.log
 
 # Test binary, build with `go test -c`
 *.test
