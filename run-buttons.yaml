@@ -3,17 +3,13 @@
 
 password: 1234
 logfile: run-buttons.log
-devices: [1213223, a3a454fa41a4fc0a]
+devices: [a3a656fa61a6fc0a]
 
 btns:
   - cmd: gnome-calculator
     title: Calculator
   - cmd: gucharmap
     title: Character Map
-  - cmd: errapp
-    title: Error app
-  - cmd: echo
-    title: Echo
   - cmd: git
     params: [push]
     icon: file_upload
