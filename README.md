@@ -1,11 +1,22 @@
 # Run Buttons
 
 Run Buttons allows you to run applications on your computer from your mobile phone. The program consists of two parts - the application to be run on your computer and the Android application to be installed on your phone. To connect the computer and the phone, the phone needs to connect via Wi-Fi to the same network  which the computer is connected to.
-This repository contains the source code and compiled programs to run on the computer. The source code and the mobile phone application can be found at [github.com/gentee/run_buttons_phone] (https://github.com/gentee/run_buttons_phone).
+This repository contains the source code and compiled programs to run on the computer. The source code and the mobile phone application can be found at **[github.com/gentee/run_buttons_phone](https://github.com/gentee/run_buttons_phone)**.
 
 ## Download
 
 You can compile the desktop application yourself or download ready binary files for your platform.
+
+- [Linux amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-linux-amd64.zip)
+- [Windows amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-windows-amd64.zip)
+- [macOS amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-darwin-amd64.zip)
+
+You can download other binary distributions for Linux, macOS, Windows [here](https://github.com/gentee/run-buttons/releases).
+
+## Links
+
+- [Run Buttons client for Android](https://github.com/gentee/run_buttons_phone)
+- [Документация на русском](README-ru.md)
 
 ## Step 1: Create a configuration file
 

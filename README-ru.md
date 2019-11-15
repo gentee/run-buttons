@@ -7,9 +7,16 @@
 
 Вы можете самостоятельно скомпилировать десктоп приложение или скачать готовые исполняемые файлы для вашей платформы.
 
-* Windows
-* Linux
-* MacOS
+- [Linux amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-linux-amd64.zip)
+- [Windows amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-windows-amd64.zip)
+- [macOS amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-darwin-amd64.zip)
+
+Прочие дистрибутивы для Linux, macOS, Windows находятся [здесь](https://github.com/gentee/run-buttons/releases).
+
+## Ссылки
+
+- [Run Buttons клиент для Android](https://github.com/gentee/run_buttons_phone)
+- [Documentation](README.md)
 
 ## Шаг 1. Создайте файл конфигурации
 

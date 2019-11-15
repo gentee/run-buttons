@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	Version        = `1.0.0`
+	Version        = "1.0.0"
 	DefaultCfgName = `run-buttons.yaml`
 	DefaultPort    = 1321
 	DefaultColor   = 0x006699
