@@ -58,13 +58,6 @@
 Пример конфигурации
 ``` yaml
 password: 1234
-logfile: /var/log/run-buttons.log
-defcolor: 0x006699
-deficon: play_arrow
-devices: [a1a724fa47a4470a]
-
-btns:
-password: 1234
 logfile: run-buttons.log
 devices: [a3a454fa41a4fc0a]
 
