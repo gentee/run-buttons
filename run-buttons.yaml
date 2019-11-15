@@ -3,16 +3,27 @@
 
 password: 1234
 logfile: run-buttons.log
-devices: [a3a656fa61a6fc0a]
+devices: [a3a454fa41a4fc0a]
 
 btns:
   - cmd: gnome-calculator
     title: Calculator
+    icon: view_module
   - cmd: gucharmap
     title: Character Map
-  - cmd: git
-    params: [push]
-    icon: file_upload
-    color: 0x339966
-    desc: Push Run buttons flutter
-    dir: /home/ak/flutter/run_buttons_phone
+  - cmd: gnome-terminal
+    title: New Terminal
+    icon: desktop-windows
+    desc: Open a new terminal
+  - cmd: xdg-open
+    params: [https://ru.wikipedia.org/]
+    title: Wikipedia
+    icon: language
+    color: 0x33ccff
+  - cmd: xdg-open
+    params: 
+      - https://github.com/gentee/run_buttons_phone
+    title: Run Buttons
+    desc: Site of the mobile client
+    icon: play_circle_filled
+    color: 0x669900
