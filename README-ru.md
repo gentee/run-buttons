@@ -15,7 +15,7 @@
 
 ## Ссылки
 
-- [Run Buttons клиент для Android](https://github.com/gentee/run_buttons_phone)
+- **[Run Buttons клиент для Android](https://github.com/gentee/run_buttons_phone)**
 - [Documentation](README.md)
 
 ## Шаг 1. Создайте файл конфигурации

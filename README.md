@@ -15,7 +15,7 @@ You can download other binary distributions for Linux, macOS, Windows [here](htt
 
 ## Links
 
-- [Run Buttons client for Android](https://github.com/gentee/run_buttons_phone)
+- **[Run Buttons client for Android](https://github.com/gentee/run_buttons_phone)**
 - [Документация на русском](README-ru.md)
 
 ## Step 1: Create a configuration file
