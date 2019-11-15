@@ -93,7 +93,7 @@ btns:
     color: 0x669900
 ```
 
-Step 3. Launch.
+## Step 3. Launch.
 
 Once you have created a configuration file with buttons to run the application, you can start the **Run Buttons** program. If all the settings have been set correctly, it will display approximately the following. 
 
