@@ -5,7 +5,7 @@ This repository contains the source code and compiled programs to run on the com
 
 ## Download
 
-You can compile the desktop application yourself or download ready binary files for your platform.
+Run Buttons is a **cross-platform, free and open source** application. You can compile the desktop application yourself or download ready binary files for your platform.
 
 - [Linux amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-linux-amd64.zip)
 - [Windows amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-windows-amd64.zip)

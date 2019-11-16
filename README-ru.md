@@ -5,7 +5,7 @@
 
 ## Скачать
 
-Вы можете самостоятельно скомпилировать десктоп приложение или скачать готовые исполняемые файлы для вашей платформы.
+Run Buttons является **кросс-платформенным бесплатным приложением** с открытыми исходными текстами. Вы можете самостоятельно скомпилировать десктоп приложение или скачать готовые исполняемые файлы для вашей платформы.
 
 - [Linux amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-linux-amd64.zip)
 - [Windows amd64](https://github.com/gentee/run-buttons/releases/download/v1.0.0/run-buttons-1.0.0-windows-amd64.zip)
