@@ -18,6 +18,9 @@ You can download other binary distributions for Linux, macOS, Windows [here](htt
 - **[Run Buttons client for Android](https://github.com/gentee/run_buttons_phone)**
 - [Документация на русском](README-ru.md)
 
+[![How it works](https://img.youtube.com/vi/ipd8pMGdaSs/0.jpg)](https://www.youtube.com/watch?v=ipd8pMGdaSs)
+
+
 ## Step 1: Create a configuration file
 
 Before you start the program, you need to create a configuration file **run-buttons.yaml**. It must be in the same directory as the program. You can rename this file and store it anywhere, but in this case, you must specify its full name in the parameter at startup.
