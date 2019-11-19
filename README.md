@@ -13,9 +13,14 @@ Run Buttons is a **cross-platform, free and open source** application. You can c
 
 You can download other binary distributions for Linux, macOS, Windows [here](https://github.com/gentee/run-buttons/releases).
 
-## Links
+## Mobile client
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=net.gentee.run_buttons_phone&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 - **[Run Buttons client for Android](https://github.com/gentee/run_buttons_phone)**
+
+## Links
+
 - [Документация на русском](README-ru.md)
 
 ### Youtube
