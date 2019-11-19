@@ -13,9 +13,13 @@ Run Buttons является **кросс-платформенным беспл�
 
 Прочие дистрибутивы для Linux, macOS, Windows находятся [здесь](https://github.com/gentee/run-buttons/releases).
 
+## Mobile client
+
+[<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/>](https://play.google.com/store/apps/details?id=net.gentee.run_buttons_phone&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+- **[Run Buttons клиент для Android](https://github.com/gentee/run_buttons_phone)**
+
 ## Ссылки
 
-- **[Run Buttons клиент для Android](https://github.com/gentee/run_buttons_phone)**
 - [Documentation](README.md)
 
 ### Youtube
